@@ -5,9 +5,9 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a DevOps Engineer and polymath at Hewlett Packard Enterprise, working on production infrastructure and developer automation tools. \
+💡 &nbsp; I'm a DevOps Engineer and polymath at HPE, working on production infrastructure and developer automation tools. \
 💻 &nbsp;I'm currently performing research in the field of micro-agriculture, and sustainable in-home farming.\
-🎓&nbsp;I graduated form Austin Peay State University in Clarksville, TN, after transferring from Tennessee Technological University (Comp Sci. -> IT Systems [B.S.]).\
+🎓&nbsp;I graduated form Austin Peay State University in Clarksville, TN, after transferring from TTU (Comp Sci. -> IT Systems [B.S.]).\
 🌱 &nbsp;I'm on track for learning more about Security Best-Practices within CICD systems and in living infrastructure.\
 ✍️ &nbsp;In my free time, I dabble with musical instruments, critique food as if I am a judge on IronChef, and .\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
