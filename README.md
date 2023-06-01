@@ -1,24 +1,42 @@
-<h1 align="center">Hi 👋, I'm Ethan</h1>
-<h3 align="center">A tech-obsessed automation fiend with a knack for DevOps.</h3>
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
+![version :1.1.27](https://img.shields.io/badge/version-1.1.27-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=ethanwllms&color=red)&nbsp;
+[![GitHub ethanwllms](https://img.shields.io/github/followers/ethanwllms?label=follow&style=social)](https://github.com/ethanwllms)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
+### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on Jira Integrations with AWS and 
+💡 &nbsp; I'm a DevOps Engineer and polymath at Hewlett Packard Enterprise, working on production infrastructure and developer automation tools. \
+💻 &nbsp;I'm currently performing research in the field of micro-agriculture, and sustainable in-home farming.\
+🎓&nbsp;I graduated form Austin Peay State University in Clarksville, TN, after transferring from Tennessee Technological University (Comp Sci. -> IT Systems [B.S.]).\
+🌱 &nbsp;I'm on track for learning more about Security Best-Practices within CICD systems and in living infrastructure.\
+✍️ &nbsp;In my free time, I dabble with musical instruments, critique food as if I am a judge on IronChef, and .\
+💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
+✉️ &nbsp;You can email me at etwllms27@gmail.com. I'll try to respond as soon as possible!\
+📄 &nbsp;You can check my [Resume](https://docs.google.com/document/d/1FPBCkY-ILsGbFXzbuL0-56B9a8_v0g7rv5C8CDy4jKE/edit?usp=sharing) for more details about work experience.
 
-- 🌱 I’m currently learning **Kubernetes and Golang (Both Beginner to Intermediate)**
 
-- 📚 I’m currently pursuing [AWS SysOps and DevOps Certifications](https://aws.amazon.com/training/path-devops/)
+### 🛠 &nbsp;Tech Stack
 
-- 👨‍💻 All of my projects are available at [https://github.com/ethanwllms?tab=repositories](https://github.com/ethanwllms?tab=repositories)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)&nbsp;
+![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=Ansible&logoColor=white)&nbsp;
+![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white)\
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)&nbsp;
+![GitHub-Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![Terrafrom](https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=Terraform&logoColor=white)&nbsp;
 
-- 💬 Ask me about **Terraform, AWS, and Raspberry Pis**
+<a href="https://tidal.com/user/188899477"><img alt="Tidal" src="https://img.shields.io/badge/Tidal-000000.svg?style=for-the-badge&logo=Tidal&logoColor=white" /></a> &nbsp;
+![MacOS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)&nbsp;
+![Raspberry-Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)&nbsp;
+![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)&nbsp;
+![FireFox](https://img.shields.io/badge/Firefox-FF7139.svg?style=for-the-badge&logo=Firefox&logoColor=white)&nbsp;
+![Netflix](https://img.shields.io/badge/Netflix-E50914.svg?style=for-the-badge&logo=Netflix&logoColor=white)
 
-- 📫 How to reach me **ethan.t.williams27@gmail.com**
 
-- ⚡ Fun fact **I am a lifelong musician and want to grow up to be a recording musician, when I'm not working in Tech.**
+### 📫 &nbsp; How to reach me:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ethan-williams-73b017aa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ethan-williams-73b017aa/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ethan.wllms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ethan.wllms" height="30" width="40" /></a>
-<a href="https://medium.com/@ethan.wllms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ethan.wllms" height="30" width="40" /></a>
-</p>
-
+<a href="mailto:etwllms27@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
