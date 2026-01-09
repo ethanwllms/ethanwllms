@@ -5,9 +5,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a DevOps Engineer and polymath at HPE, working on production service infrastructure and developing automation tools. \
-📄 &nbsp;You can check my [Resume](https://docs.google.com/document/d/1FPBCkY-ILsGbFXzbuL0-56B9a8_v0g7rv5C8CDy4jKE/edit?usp=sharing) for more details about work experience.
-
+💡 &nbsp; I'm a DevOps Engineer at HPE, working on production service infrastructure and developing automation tools. \
 
 ### 🛠 &nbsp;Tech Stack
 
